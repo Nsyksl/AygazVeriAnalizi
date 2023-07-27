@@ -1,8 +1,8 @@
 # AygazVeriAnalizi
 
-# İş Problemi : Airbnb veri setinin analizini gerçekleştirmek istiyoruz.
+ İş Problemi : Airbnb veri setinin analizini gerçekleştirmek istiyoruz.
 
-# Veri Setinin Hikayesi : 2008'den bu yana konuklar ve ev sahipleri, seyahat olanaklarını genişletmek ve dünyayı daha benzersiz, kişiselleştirilmiş bir şekilde deneyimlemek için Airbnb'yi kullanıyor.
+ Veri Setinin Hikayesi : 2008'den bu yana konuklar ve ev sahipleri, seyahat olanaklarını genişletmek ve dünyayı daha benzersiz, kişiselleştirilmiş bir şekilde deneyimlemek için Airbnb'yi kullanıyor.
 Bu veri seti, 2019 yılında New York şehrinde yer alan Airbnb uygulaması verilerini içermektedir.
 
 # Değişkenler
